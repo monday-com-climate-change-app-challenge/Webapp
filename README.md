@@ -97,9 +97,7 @@ Rest(If there is no data) will be displayed in orange color markers.
 - CO2 Emissions (kt) | World Bank Open Data from [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-qf3r4b6jpivte?sr=0-1&ref_=beagle&applicationId=AWSMPContessa#dataSets)
 - Green house gases (kt) | historical emissions from [Climate Watch](https://www.climatewatchdata.org/)
 
-### AWS Cloud Service for Machine Learning (Amazon SageMaker Studio - Jupyter Notebook Instances) : 
-
-Amazon SageMaker is a fully managed machine learning service. With SageMaker, the developers can quickly and easily build and train machine learning models, and then directly deploy them into a production-ready hosted environment. It provides an integrated Jupyter authoring notebook instance for easy access to your data sources for exploration and analysis. It also provides common machine learning algorithms that are optimized to run efficiently against extremely large data in a distributed environment. 
+### Google Colab(Jupyter Notebook Instance) : 
 
 ## Challenges we ran into
 
@@ -107,17 +105,18 @@ The major challenge was collecting datasets of different green house gasses for 
 
 ## Accomplishments that we're proud of
 
-So, we really do feel proud that we were able to pull it off. Getting familiar with great AWS Services(AWS Cloud services, Amazon Sagemaker studio, AWS Data Exchange), collecting information, and altogether making things work good. We're really proud of that.
+So, we really do feel proud that we were able to pull it off. Getting familiar with great Monday.com(...), collecting information, and altogether making things work good. We're really proud of that.
 
 ## What we learned
 
 It is apt to say that the process, alone, of building a project, whatever it is, holds new knowledge and skills to achieve. We did a lot of that: unlocking new knowledge and skills. This includes:
 
-- AWS Cloud Services
-- AWS Data Exchange
-- Amazon Sagemaker studio
+- Monday.com
+- 
+- 
+-
 
-## What's next for Carbon Footprints/Green houses gases effect Analyzer 
+## What's next for Green houses gases Analyzer Tool
 
 The is only in like v0.0.1. There is so much left to do. We are going to collect the data for each and every state, city of each and every country all over the world,we would like to do deeper analysis, its reasons of climate change and also will come back with solutions.We are planning to build User friendly Analysis tool to know the statistics of country/State/City. As a citizen, we want to play our role for achieving Sustainable UN goal "Climate Action" to save environment for future generations. All these things and more will go into improving the app.
 
@@ -142,4 +141,4 @@ Run `npm run build` to compile and generate build files in `./dist`.
 
 ## Resources
 
-- [Amazon Sagemaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
+- 
