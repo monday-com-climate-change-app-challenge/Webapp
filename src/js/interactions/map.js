@@ -33,10 +33,6 @@ function median(numbers) {
     return sorted[middle];
 }
 
-const mid = median(fillse)
-
-console.log(mid);
-
   let mapOptions = {
     mapTypeControl: false,
     rotateControl: false,
@@ -71,16 +67,10 @@ console.log(mid);
       $("#locationPre").text("No location to show.");
       $("#dataPre").text("No data to show.");
     });
-    m.addListener("click", () => {
-      pushRouteLocation(i);
-      renderDirections(directionsRenderer, map);
 
-      const route = retrieve("route");
-      if (route.length >= 2) {
-        markers
-          .filter((m, i) => route.includes(i))
-          .forEach((m) => m.setMap(null));
-      }
+    m.addListener("click", () => {
+      $("#locationPre").text(JSON.stringify(d.addressObject, null, 2));
+      $("#dataPre").text(JSON.stringify(d.data, null, 2));
     });
 
     markers.push(m);
