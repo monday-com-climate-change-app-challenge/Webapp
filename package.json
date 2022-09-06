@@ -1,7 +1,7 @@
 {
-  "name": "managing-csv-data-with-maps-tutorial",
+  "name": "Green House gases Analyzer Tool",
   "version": "1.0.0",
-  "description": ":pushpin: A single-page app for managing spreadsheet data using the Google Maps API. Created for my YouTube tutorial.",
+  "description": ":pushpin: A single-page app for managing spreadsheet data using the Google Maps API.",
   "main": "src/js/index.js",
   "scripts": {
     "build": "webpack",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BryceStPierre/managing-csv-data-with-maps-tutorial.git"
+    "url": "https://github.com/monday-com-climate-change-app-challenge/Webapp.git"
   },
   "keywords": [],
   "author": "Bryce St. Pierre",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BryceStPierre/managing-csv-data-with-maps-tutorial/issues"
+    "url": "https://github.com/monday-com-climate-change-app-challenge/Webapp.git"
   },
-  "homepage": "https://github.com/BryceStPierre/managing-csv-data-with-maps-tutorial#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.8.4",
     "@babel/preset-env": "^7.8.4",
