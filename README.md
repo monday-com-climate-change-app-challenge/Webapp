@@ -97,7 +97,7 @@ Rest(If there is no data) will be displayed in orange color markers.
 - CO2 Emissions (kt) | World Bank Open Data from [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-qf3r4b6jpivte?sr=0-1&ref_=beagle&applicationId=AWSMPContessa#dataSets)
 - Green house gases (kt) | historical emissions from [Climate Watch](https://www.climatewatchdata.org/)
 
-### Google Colab(Jupyter Notebook Instance) : 
+### Google Colab(Jupyter Notebook Instance)
 
 ## Challenges we ran into
 
