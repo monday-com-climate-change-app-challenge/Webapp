@@ -55,14 +55,7 @@ console.log(mid);
 
   data.forEach((d, i) => {
 
-    let img;
-
-    if(Object.values(d.data) < max && Object.values(d.data) > mid)
-      img = 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
-    else if(Object.values(d.data) < mid && Object.values(d.data) > min)
-      img = 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'
-    else
-      img = 'http://maps.google.com/mapfiles/ms/icons/orange-dot.png'
+    let img = 'http://maps.google.com/mapfiles/ms/icons/red-dot.png';
 
     let m = new google.maps.Marker({
       map: map,
