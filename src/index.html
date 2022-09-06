@@ -4,18 +4,18 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title><%= htmlWebpackPlugin.options.title %></title>
+    <title>SpreadSheet Analyzer Tool</title>
   </head>
 
   <body>
     <div class="container-fluid">
       <!-- Home Section -->
       <section id="homeSection" class="jumbotron">
-        <h1 class="display-5"><%= htmlWebpackPlugin.options.title %></h1>
+        <h3 class="display-5"><%= htmlWebpackPlugin.options.title %></h3>
         <p class="lead">
           Use your CSV data, plot the Carbon emissions/green house gases effect on the map. </p>
         <p class="lead">
-          Its reasons for increase/decrease in each and every country,
+          It's reasons for increase/decrease in each and every country,
           and as well as solutions to take, to fight for the climate change.</p>
         <hr class="my-4" />
         <p>When you're ready, click the button below to continue.</p>
@@ -49,10 +49,10 @@
             </div>
           </div>
           <div class="col">
-            <p class="lead">Or select a JSON file to open a saved map.</p>
+          <!--  <p class="lead">Or select a JSON file to open a saved map.</p> -->
             <div class="input-group mb-3">
               <div class="custom-file">
-                <input
+      <!--          <input
                   id="jsonFileInput"
                   type="file"
                   class="custom-file-input"
@@ -64,7 +64,7 @@
                   class="custom-file-label"
                   for="jsonFileInput"
                   >Choose JSON file...</label
-                >
+                > -->
               </div>
             </div>
           </div>
@@ -196,9 +196,9 @@
       <section id="routeSection" class="jumbotron" style="display: none;">
         <div class="row">
           <div class="col">
-            <h1 class="display-5">Plan Route</h1>
+            <h1 class="display-5">Details about the Green house gases</h1>
             <p class="lead">
-              Select the locations in order to create your directions.
+              Select the locations in order to view the details.
             </p>
             <div id="map"></div>
             <div class="row mt-4">
@@ -212,30 +212,24 @@
               </div>
             </div>
           </div>
-          <!--<div class="col">
+          <div class="col">
             <table class="table table-sm">
               <thead class="thead-dark">
-                <tr>
-                  <th scope="col">Location</th>
-                  <th scope="col">Address</th>
-                  <th scope="col">Data</th>
-                </tr>
+
               </thead>
               <tbody id="locationTableBody">
-                <tr>
-                  <td colspan="3">No directions to show.</td>
-                </tr>
+
               </tbody>
             </table>
           </div>
-        </div> -->
+        </div>
         <hr class="my-4" />
         <p>
           Click one of the buttons below to export a PDF report or export your
           JSON data.
         </p>
         <button id="fieldsReturnButton" class="btn btn-danger">Back</button>
-        <button id="exportPdfButton" class="btn btn-primary">Export PDF</button>
+        <!--<button id="exportPdfButton" class="btn btn-primary">Export PDF</button> -->
         <a id="exportJsonButton" class="btn btn-primary" href="#"
           >Export JSON</a
         >
