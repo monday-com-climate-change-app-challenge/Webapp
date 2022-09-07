@@ -1,5 +1,5 @@
 body {
-  background-color: #e9ecef;
+  background-color: #ADD8E6;
 }
 
 #map {
@@ -29,4 +29,34 @@ body {
 
 #locationTableBody {
   font-size: 0.9rem;
+}
+
+#footerSection, .support-flex{
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  /* background: #53aff4; */
+}
+
+#footerSection svg{
+  width:15px;
+  height: 15px;
+}
+
+#MenuSection{
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* background: #53aff4; */
+}
+
+#MenuSection img{
+  width: 150px;
+  height:50%;
+  background-color:rgba(0, 0, 0, 0.5);
+}
+
+.jumbotron{
+  background-color: #ADD8E6;
 }
