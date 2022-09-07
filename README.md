@@ -88,7 +88,7 @@ This tool will provide you visualization power in the form of map plot of variou
 
 ## How we built it
 
-We had built user friendly and convienient flexible UI to check the statistics of the emissions across the world or in every country. We had divided the statistics in to three categories(colors) while plotting the data in the map.
+We had built user friendly and convienient flexible UI to check the statistics of the emissions across the world or in every country. We had plotted the statistics/pollutants data in the map.
 
 Highest Emissions(CO2,N2O,CH4)of country and year wise in blue color markers.
 Lowest Emissions(CO2,N2O,CH4)of country and year wise in green color markers.
@@ -123,7 +123,7 @@ It is apt to say that the process, alone, of building a project, whatever it is,
 
 We also learned about the version system of the monday.com platform, how we can create the multiple version according to the requirement like it have minor version and major version facility which is very useful at the time of production.
 
-## What's next for Green houses gases Analyzer Tool
+## What's next for Climate Pollutants Visualizer Tool
 
 The is only in like v0.0.1. There is so much left to do. We are going to collect the data for each and every state, city of each and every country all over the world,we would like to do deeper analysis, its reasons of climate change and also will come back with solutions.We are planning to build User friendly Analysis tool to know the statistics of country/State/City. As a citizen, we want to play our role for achieving Sustainable UN goal "Climate Action" to save environment for future generations. All these things and more will go into improving the app.
 
