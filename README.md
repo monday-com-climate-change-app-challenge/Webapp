@@ -88,11 +88,7 @@ This tool will provide you visualization power in the form of map plot of variou
 
 ## How we built it
 
-We had built user friendly and convienient flexible UI to check the statistics of the emissions across the world or in every country. We had plotted the statistics/pollutants data in the map.
-
-Highest Emissions(CO2,N2O,CH4)of country and year wise in blue color markers.
-Lowest Emissions(CO2,N2O,CH4)of country and year wise in green color markers.
-Rest(If there is no data) will be displayed in orange color markers.
+We had built user friendly and convienient flexible UI to check the statistics of the pollutants/emissions across the world or in every country. We had plotted the statistics/pollutants data in the map.
 
 ### Datasets 
 
