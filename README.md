@@ -84,6 +84,8 @@ Climate change is the greatest environmental challenge the world has ever faced,
 
 "Climate Action" is one of the UN sustainable goal to combat for climate change. We had done Analysis/visualization from the root level across countries all over the world. We had deep analysis of Carbon footprints/emissions, Green house gases effect( like, N2O, CH4, F-Gases ) from the year 1960 - 2020. Not only that we found the reasons of emission of these gases in each and every country and as well as solutions to tackle the fight for the climate change. For easier and better control of the data, we had plotted country wise and yearwise about the emissions and reasons for increase, as well as solutions in the google map. It will very easy and flexible UI to check the statistics of the emissions. 
 
+This tool will provide you visualization power in the form of map plot of various countries of the climate pollutants like green house gases, in accordance with the data available in the .csv file.
+
 ## How we built it
 
 We had built user friendly and convienient flexible UI to check the statistics of the emissions across the world or in every country. We had divided the statistics in to three categories(colors) while plotting the data in the map.
