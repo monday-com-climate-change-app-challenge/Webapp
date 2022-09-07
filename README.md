@@ -105,16 +105,21 @@ The major challenge was collecting datasets of different green house gasses for 
 
 ## Accomplishments that we're proud of
 
-So, we really do feel proud that we were able to pull it off. Getting familiar with great Monday.com(...), collecting information, and altogether making things work good. We're really proud of that.
+So, we really do feel proud that we were able to pull it off. Getting familiar with great Monday.com(Boards, views, widgets creating Monday App etc...), collecting information, and altogether making things work good. We're really proud of that.
 
 ## What we learned
 
 It is apt to say that the process, alone, of building a project, whatever it is, holds new knowledge and skills to achieve. We did a lot of that: unlocking new knowledge and skills. This includes:
 
-- Monday.com
-- 
-- 
--
+- creation of app using the monday.com platform
+- Implementing React Componenets
+- Boards
+- Monday SDK
+- Widgets
+- Views
+- Integrations
+
+We also learned about the version system of the monday.com platform, how we can create the multiple version according to the requirement like it have minor version and major version facility which is very useful at the time of production.
 
 ## What's next for Green houses gases Analyzer Tool
 
@@ -141,4 +146,5 @@ Run `npm run build` to compile and generate build files in `./dist`.
 
 ## Resources
 
-- 
+- https://developer.monday.com/apps/docs/intro
+- https://developer.monday.com/apps/docs/quickstart-view
